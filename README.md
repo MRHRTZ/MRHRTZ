@@ -1,7 +1,7 @@
 ### 👋 Welcome to my github profile
 - 🔭 I’m currently working on bedrock scripting
 - 🌱 I’m currently learning golang
-- 👯 I’m looking to collaborate on PT ISI
+- 👯 I’m looking to collaborate on KodeMaya
 - ⚡ Fun fact: Tachyons, if they exist, would always travel faster than the speed of light. Unlike ordinary particles that require more and more energy to approach the speed of light. 
 
 <p align="center">
